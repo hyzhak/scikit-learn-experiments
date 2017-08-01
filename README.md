@@ -6,6 +6,7 @@ scikit-learn experiments. Based on official tutorial.
 - [tunning hyper parameters](https://github.com/hyzhak/skilearn-experiments/blob/master/tunning_hyper_parameters.ipynb)
 - [model evaluation](https://github.com/hyzhak/skilearn-experiments/blob/master/model_evaluation.ipynb)
 - [validation curves](https://github.com/hyzhak/skilearn-experiments/blob/master/validation_curves.ipynb)
+- [datasets](https://github.com/hyzhak/skilearn-experiments/blob/master/datasets.ipynb)
 
 ## Additional
 - [matplotlib](https://github.com/hyzhak/skilearn-experiments/blob/master/matplotlib.ipynb)
