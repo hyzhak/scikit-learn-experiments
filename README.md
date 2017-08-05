@@ -7,6 +7,8 @@ scikit-learn experiments. Based on official tutorial.
 - [model evaluation](https://github.com/hyzhak/skilearn-experiments/blob/master/model_evaluation.ipynb)
 - [validation curves](https://github.com/hyzhak/skilearn-experiments/blob/master/validation_curves.ipynb)
 - [datasets](https://github.com/hyzhak/skilearn-experiments/blob/master/datasets.ipynb)
+- [scale](https://github.com/hyzhak/skilearn-experiments/blob/master/scale.ipynb)
+- [performance](https://github.com/hyzhak/skilearn-experiments/blob/master/performance.ipynb)
 
 ## Additional
 - [matplotlib](https://github.com/hyzhak/skilearn-experiments/blob/master/matplotlib.ipynb)
